@@ -1,6 +1,6 @@
 #ifndef ABSTRACTTHIRDPARTYPM_H
 #define ABSTRACTTHIRDPARTYPM_H
-
+//Define by sumayya sameena
 #include <QList>
 
 #include "installedpackageversion.h"
