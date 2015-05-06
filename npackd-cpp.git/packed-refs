@@ -1,0 +1,18 @@
+# pack-refs with: peeled fully-peeled 
+57ea362055d19e6f2f46e99e02025d8820764d37 refs/heads/master
+4346866daae7a98762947370526a7bdf0545635d refs/tags/CLUVersion_1
+c42dc114136a4d16bf7b36581b071356440d43f8 refs/tags/InstallerHelperVersion_1
+bef12a1b3276a2edba459713be6642a3fb27e753 refs/tags/NpackdVersion_1.17.4
+1776081ebfaa43de9b20b01c182f056c679fbcdd refs/tags/NpackdVersion_1.17.7
+6f404785d6e09e4736d5a8326bf9617a1eeab281 refs/tags/NpackdVersion_1.17.8
+4b65275263859a34f7974d01204c47166626fe7f refs/tags/NpackdVersion_1.17.9
+8df0559498bbdb5aef2bdcf3c637a2875282feb7 refs/tags/NpackdVersion_1.18
+cb3b6698232ac273a73ca5ac848af63b34b4723c refs/tags/NpackdVersion_1.18.1
+9cf8780fbe280402788f90d1a98a74d6124fc9c3 refs/tags/NpackdVersion_1.18.2
+7a399e79e9cf2dcbae82f746ce84ee1893abfbbd refs/tags/NpackdVersion_1.18.3
+a42cd4d4b04076cea4f84eb656a46937bc51640e refs/tags/NpackdVersion_1.18.4
+d62ee12227a4f3fbe52d611866b2c9b72d63e270 refs/tags/NpackdVersion_1.18.5
+0ea67a7fe42d6fdee688a6b690287f21d8923617 refs/tags/NpackdVersion_1.18.6
+a053ff29118713bf01a91ff5544605dc073c0aff refs/tags/NpackdVersion_1.18.7
+03e3dd6d4bf908e39864c8056e1cd7dc087d3e7b refs/tags/exe-proxy-version_0.2
+6e60e4d7d3330c7796169f4a1be233def1765872 refs/tags/version_1.19.13
